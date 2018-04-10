@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<path>
+    <external-path
+        name="getExternalStorageDirectory_path"
+        path="./storage/emulated/0/" />
+    <root-path
+        name="root_path"
+        path="." />
+</path>
